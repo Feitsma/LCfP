@@ -1,0 +1,275 @@
+Award_Name,Award_Number,year_of_award,Name,Nationality,Birthplace,date_of_birth,Anscestry,Faith,sexual_orientation,Movie,movie_genre,movie_type,IMDB_rate,RottenTomatoesCritics_rate,RottenTomatoesPublic_rate
+Best Director,1,1928,Frank Borzage,American,Us,23-Apr-1894,European,Na,Straight,7th Heaven,Romantic drama,film,7.8,1.00,0.84
+Best Director,1,1928,Lewis Milestone,American,Moldova,30-Sep-1895,European,Jewish,Straight,Two Arabian Knights,Comedy,film,6.8,Na,0.63
+Best Actress,1,1928,Janet Gaynor,American,US,6-Oct-1906,European,Na,Straight,7th Heaven,Romantic drama,film,7.8,1.00,0.84
+Best Actor,1,1928,Emil Jannings,German,Switzerland,23-Jul-1884,European,Protestant,Na,The Last Command,Pre-code Melodrama,film,8.0,1.00,0.91,x
+Best Director,2,1929,Frank Lloyd,British-American,Scotland,2-Feb-1886,European,Na,Na,The Divine Lady,Drama,musical,6.3,Na,0.21
+Best Actress,2,1929,Mary Pickford,English-American,Canada,8-Apr-1892,European,Na,Straight,Coquette,Pre-code drama,film,7.1,Na,0.24
+Best Actor,2,1929,Warner Baxter,American,US,29-Mar-1889,European,Na,Straight,In Old Arizona,Pre-code Western,film,5.7,0.56,0.39
+Best Director,3,1930,Lewis Milestone,American,Moldova,30-Sep-1895,European,Jewish,Straight,All Quiet on the Western Front,Pre-code Epic  war,film,8.1,1.00,0.89
+Best Actress,3,1930,Norma Shearer,Canadian-American,Canada,11-Aug-1902,European,Na,Straight,The Divorcee,Pre-code drama,film,6.8,0.75,0.63
+Best Actor,3,1930,George Arliss,English,England,10-Apr-1868,European,Protestant,Straight,Disraeli,historical drama,film,6.4,0.8,0.42
+Best Director,4,1931,Norman Taurog,American,Us,23-Feb-1899,European,Na,Straight,Skippy,Pre-code comedy,film,6.3,1.00,0.56
+Best Actress,4,1931,Marie Dressler,Canadian-American,Canada,2-Nov-1868,European,Na,Straight,Min and Bill,Pre-Code Comedy drama,film,7.3,Na,0.45
+Best Actor,4,1931,Lionel Barrymore,American,US,28-Apr-1878,European,Roman Catholic,Straight,A Free Soul,Pre-code Drama,film,6.7,NC,0.56
+Best Director,5,1932,Frank Borzage,American,Us,23-Apr-1894,European,Roman Catholic,Straight,Bad Girl,Pre-code Drama,film,6.6,Na,0.42
+Best Actress,5,1932,Helen Hayes,American,US,10-Oct-1900,European,Roman Catholic,Straight,The Sin of Madelon Claudet,Pre-code drama,film,6.7,Na,0.68
+Best Actor,5,1932,Wallace Beery,American,US,1-Apr-1885,European,Na,Straight,The Champ,Pre-code Drama,film,7.3,0.83,0.75
+Best Actor,5,1932,Frederic March,American,US,31-Aug-1897,European,Protestant,,Dr. Jekyll and Mr. Hyde,Pre-code Horror,film,7.7,0.93,0.78,5
+Best Director,6,1933,Frank Lloyd,British-American,Scotland,2-Feb-1886,European,Na,Na,Cavalcade,Pre-Code Epic Drama,film,6.0,0.61,0.26
+Best Actress,6,1933,Katharine Hepburn,American,US,12-May-1907,European,Atheist,Bisexual,Morning Glory,Pre-code drama,film,6.6,0.67,0.46
+Best Actor,6,1933,Charles Laughton,English,England,1-Jul-1899,European,Roman Catholic,Bisexual,The Private Life of Henry VIII,Historical comedy,film,7.2,1.00,0.78
+Best Director,7,1934,Frank Capra,Italian-American,Italy,18-May-1897,European,Roman Catholic,Straight,It Happened One Night,Pre-code Romantic Comedy,film,8.1,0.98,0.93
+Best Actress,7,1934,Claudette Colbert,American,France,13-Sep-1903,European,Na,Straight,It Happened One Night,Pre-code Romantic Comedy,film,8.1,0.98,0.93
+Best Actor,7,1934,Clark Gable,American,US,1-Feb-1901,European,Na,Straight,It Happened One Night,Pre-code Romantic Comedy,film,8.1,0.98,0.93
+Best Director,8,1935,John Ford,American,US,1-Feb-1894,European,Roman Catholic,Bisexual,The Informer,Drama,film,7.5,0.92,0.78
+Best Actress,8,1935,Bette Davis,American,US,5-Apr-1908,European,Na,Straight,Dangerous,Drama,film,7.1,Na,0.63
+Best Actor,8,1935,Victor McLaglen,English,England,10-Dec-1886,European,Protestant,Straight,The Informer,Drama,film,7.5,0.92,0.78
+Best Director,9,1936,Frank Capra,Italian-American,Italy,18-May-1897,European,Roman Catholic,Straight,Mr. Deeds Goes to Town,Romantic comedy,film,8.0,0.89,0.86
+Best Actress,9,1936,Luise Rainer,German-American,Germany,12-Jan-1910,European,Jewish,Straight,The Great Ziegfeld,Drama,musical,6.8,0.65,0.50
+Best Actor,9,1936,Paul Muni,American,Ukraine,22-Sep-1895,European,Jewish,Straight,The Story of Louis Pasteur,Biographical drama,film,7.4,1.00,0.77
+Best Director,10,1937,Leo McCarey,American,US,3-Oct-1898,European,Roman Catholic,Straight,The Awful Truth,Comedy,film,7.9,0.93,0.88
+Best Actress,10,1937,Luise Rainer,German-American,Germany,12-Jan-1910,European,Jewish,Straight,The Good Earth,Drama,film,7.7,0.94,0.76
+Best Actor,10,1937,Spencer Tracy,American,US,5-Apr-1900,European,Roman Catholic,Straight,Captains Courageous,Adventure,film,8.0,0.93,0.89
+Best Director,11,1938,Frank Capra,Italian-American,Italy,18-May-1897,European,Roman Catholic,Straight,You Can't Take It with You,Romantic comedy,film,8.0,0.91,0.88
+Best Actress,11,1938,Bette Davis,American,US,5-Apr-1908,European,Na,Straight,Jezebel,Romantic drama,film,7.6,0.94,0.82
+Best Actor,11,1938,Spencer Tracy,American,US,5-Apr-1900,European,Roman Catholic,Straight,Boys Town,Biographical drama,film,7.3,0.89,0.82
+Best Director,12,1939,Victor Fleming,American,US,23-Feb-1883,European,Na,Straight,Gone with the Wind,Epic-Historical Romance,film,8.2,0.92,0.92
+Best Actress,12,1939,Vivien Leigh,English,India,5-Nov-1913,European,Roman Catholic,Straight,Gone with the Wind,Epic-Historical Romance,film,8.2,0.92,0.92
+Best Actor,12,1939,Robert Donat,English,England,18-Mar-1905,European,Na,Straight,Goodbye Mr. Chips,Romantic drama,film,7.8,0.81,0.87
+Best Director,13,1940,John Ford,American,US,1-Feb-1894,European,Roman Catholic,Bisexual,The Grapes of Wrath,Drama,film,8.1,1.00,0.88
+Best Actress,13,1940,Ginger Rogers,American,US,16-Jul-1911,European,Christian Science,Straight,Kitty Foyle,Drama,film,7.0,0.78,0.73
+Best Actor,13,1940,Jimmy Stewart,American,US,20-May-1908,European,Protestant,Straight,The Philadelphia Story,Romantic Comedy,film,8.0,1.00,0.93
+Best Director,14,1941,John Ford,American,US,1-Feb-1894,European,Roman Catholic,Bisexual,How Green Was My Valley,Drama,film,7.8,0.91,0.81
+Best Actress,14,1941,Joan Fontaine,British-American,Japan,22-Oct-1917,European,Na,Straight,Suspicion,Romantic psychological thriller,film,7.4,0.97,0.78
+Best Actor,14,1941,Gary Cooper,American,US,7-May-1901,European,Roman Catholic,Straight,Sergeant York,Biographical drama,film,7.8,0.85,0.86
+Best Director,15,1942,William Wyler,American,France,1-Jul-1902,European,Jewish,Straight,Mrs. Miniver,Romantic war drama,film,7.6,0.92,0.85
+Best Actress,15,1942,Greer Garson,British-American,England,29-Sep-1904,European,Protestant,Straight,Mrs. Miniver,Romantic war drama,film,7.6,0.92,0.85
+Best Actor,15,1942,James Cagney,American,US,17-Jul-1899,European,Roman Catholic,Straight,Yankee Doodle Dandy,Biographical drama,musical,7.7,0.92,0.83
+Best Director,16,1943,Michael Curtiz,American,Hungary,24-Dec-1886,European,Jewish,Straight,Casablanca,Romantic comedy,film,8.5,0.97,0.95
+Best Actress,16,1943,Jennifer Jones,American,US,2-Mar-1919,European,Roman Catholic,Straight,The Song of Bernadette,Biographical drama,film,7.7,0.83,0.80
+Best Actor,16,1943,Paul Lukas,Hungarian,Hungary,26-May-1887,European,Jewish,Straight,Watch on the Rhine,Drama,film,7.4,0.8,0.62
+Best Director,17,1944,Leo McCarey,American,US,3-Oct-1898,European,Roman Catholic,Straight,Going My Way,Comedy,musical,7.2,0.78,0.76
+Best Actress,17,1944,Ingrid Bergman,Swedish,Sweden,29-Aug-1915,European,Protestant,Straight,Gaslight,Mystery thriller,film,7.8,0.86,0.90
+Best Actor,17,1944,Bing Crosby,American,US,3-May-1903,European,Roman Catholic,Straight,Going My Way,Comedy,musical,7.2,0.78,0.76
+Best Director,18,1945,Billy Wilder,American,Austria,22-Jun-1906,European,Jewish,Straight,The Lost Weekend,Noir,film,8.0,1.00,0.9
+Best Actress,18,1945,Joan Crawford,American,US,23-Mar-1904,European,Protestant,Bisexual,Mildred Pierce,Noir,film,8.0,0.85,0.91
+Best Actor,18,1945,Ray Milland,Welsh-American,Wales,3-Jan-1907,European,Na,Straight,The Lost Weekend,Noir,film,8.0,1.00,0.9
+Best Director,19,1946,William Wyler,American,France,1-Jul-1902,European,Jewish,Straight,The Best Years of Our Lives,Drama,film,8.1,0.96,0.92
+Best Actress,19,1946,Olivia de Havilland,British-American,Japan,1-Jul-1916,European,Protestant,Straight,To Each His Own,Romantic drama,film,7.8,Na,0.84
+Best Actor,19,1946,Fredric March,American,US,31-Aug-1897,European,Protestant,Straight,The Best Years of Our Lives,Drama,film,8.1,0.96,0.92
+Best Director,20,1947,Elia Kazan,Greek-American,Turkey,7-Sep-1909,European,Greek orthodox,Straight,Gentleman's Agreement,Drama,film,7.4,0.78,0.77
+Best Actress,20,1947,Loretta Young,American,US,6-Jan-1913,European,Roman Catholic,Straight,The Farmer's Daughter,Play adaptation,film,7.4,1.00,0.78
+Best Actor,20,1947,Ronald Colman,English,England,9-Feb-1891,European,Na,Straight,A Double Life,Noir,film,7.1,0.71,0.69
+Best Director,21,1948,John Huston,American,US,5-Aug-1906,European,Na,Straight,The Treasure of the Sierra Madre,Western,film,8.2,1.00,0.93
+Best Actress,21,1948,Jane Wyman,American,US,5-Jan-1917,European,Roman Catholic,Straight,Johnny Belinda,Drama,film,7.8,0.89,0.88
+Best Actor,21,1948,Laurence Olivier,English,England,22-May-1907,European,Protestant,Bisexual,Hamlet,Adaptation Play,film,7.8,0.91,0.81
+Best Director,22,1949,Joseph L. Mankiewicz,American,US,11-Feb-1909,European,Jewish,Straight,A Letter to Three Wives,Romantic drama,film,7.8,0.94,0.86
+Best Actress,22,1949,Olivia de Havilland,British-American,Japan,1-Jul-1916,European,Protestant,Straight,The Heiress,Drama,film,8.2,1.00,0.93
+Best Actor,22,1949,Broderick Crawford,American,US,9-Dec-1911,European,Na,Straight,All The King's Men,Noir,film,7.5,0.97,0.78
+Best Director,23,1950,Joseph L. Mankiewicz,American,US,11-Feb-1909,European,Jewish,Straight,All About Eve,Drama,film,8.3,1.00,0.94
+Best Actress,23,1950,Judy Holliday,American,US,21-Jun-1921,European,Jewish,Straight,Born Yesterday,Drama,film,7.6,0.95,0.86
+Best Actor,23,1950,Jose Ferrer,Porto-Rican,Porto-Rica,8-Jan-1912,Latino American,Na,Straight,Cyrano de Bergerac,Adaptation Play,film,7.6,0.83,0.82
+Best Director,24,1951,George Stevens,American,US,18-Dec-1904,European,Na,Straight,A Place in the Sun,Drama,film,7.8,0.75,0.84
+Best Actress,24,1951,Vivien Leigh,English,India,5-Nov-1913,European,Roman Catholic,Straight,A Streetcar Named Desire,Drama,film,8.0,0.98,0.90
+Best Actor,24,1951,Humphrey Bogart,American,US,25-Dec-1899,European,Protestant,Straight,The Africa Queen,Adventure,film,7.9,0.98,0.86
+Best Director,25,1952,John Ford,American,US,1-Feb-1894,European,Roman Catholic,Bisexual,The Quiet Man,Romantic comedy,film,7.8,0.90,0.91
+Best Actress,25,1952,Shirley Booth,American,US,30-Aug-1898,European,Na,Straight,Come Back, Little Sheba,Drama,film,7.7,0.83,0.79
+Best Actor,25,1952,Gary Cooper,American,US,7-May-1901,European,Roman Catholic,Straight,High Noon,Western,film,8.0,0.96,0.89
+Best Director,26,1953,Fred Zinnemann,American,Austria,29-Apr-1907,European,Jewish,Straight,From Here to Eternity,Romantic drama,film,7.7,0.92,0.84
+Best Actress,26,1953,Audrey Hepburn,British,Belgium,4-May-1929,European,Protestant,Straight,Roman Holiday,Romantic comedy,film,8.1,0.98,0.93
+Best Actor,26,1953,William Holden,American,US,17-Apr-1918,European,Na,Straight,Stalag 17,War Comedy,film,8.0,0.97,0.93
+Best Director,27,1954,Elia Kazan,Greek-American,Turkey,7-Sep-1909,European,Greek orthodox,Straight,On the Waterfront,Crime drama,film,8.2,0.98,0.95
+Best Actress,27,1954,Grace Kelly,American,US,12-Nov-1929,European,Roman Catholic,Straight,The Country Girl,Drama,film,7.3,0.86,0.78
+Best Actor,27,1954,Marlon Brando,American,US,3-Apr-1924,European,Deist,Bisexual,On the Waterfront,Crime drama,film,8.2,0.98,0.95
+Best Director,28,1955,Delbert Mann,American,US,30-Jan-1920,European,Presbyterian,Straight,Marty,Romantic drama,film,7.7,1.00,0.87
+Best Actress,28,1955,Anna Magnani,Italian,Italy,7-Mar-1908,European,Astrology,Straight,The Rose Tattoo,Play adaptation,film,7.2,o.80,0.76
+Best Actor,28,1955,Ernest Borgnine,American,US,24-Jan-1917,European,Na,Straight,Marty,Romantic drama,film,7.7,1.00,0.87
+Best Director,29,1956,George Stevens,American,US,18-Dec-1904,European,Na,Straight,Giant,Western,film,7.7,0.95,0.86
+Best Actress,29,1956,Ingrid Bergman,Swedish,Sweden,29-Aug-1915,European,Protestant,Straight,Anastasia,Historical drama,film,7.1,0.90,0.77
+Best Actor,29,1956,Yul Brynner,Swiss-American,Russia,11-Jul-1920,European,Russian Orthodox,Straight,The King and I,Biographical romantic drama,musical,7.5,0.96,0.83
+Best Director,30,1957,David Lean,English,England,25-Mar-1908,European,Quakers,Straight,The Bridge on the River Kwai,Epic war drama,film,8.2,0.94,0.93
+Best Actress,30,1957,Joanne Woodward,American,US,27-Feb-1930,European,Na,Straight,The Three Faces of Eve,Mystery drama,film,7.2,0.93,0.77
+Best Actor,30,1957,Alec Guinness,English,England,2-Apr-1914,European,Roman Catholic,Bisexual,The Bridge on the River Kwai,Epic war drama,film,8.2,0.94,0.93
+Best Director,31,1958,Vincente Minnelli,American,US,28-Feb-1903,European,Na,Bisexual,Gigi,Romance,musical,6.8,0.77,0.74
+Best Actress,31,1958,Susan Hayward,American,US,30-Jun-1917,European,Roman Catholic,Straight,I Want To Live!,Noir,film,7.5,0.92,0.83
+Best Actor,31,1959,David Niven,English,England,1-Mar-1910,European,Na,Straight,Separate Tables,Drama,film,7.5,0.71,0.79
+Best Director,32,1959,William Wyler,American,France,1-Jul-1902,European,Jewish,Straight,Ben-Hur,Epic religious drama,film,8.1,0.87,0.89
+Best Actress,32,1959,Simone Signoret,French,Germany,25-Mar-1921,European,Na,Straight,Room at the Top,Drama,film,7.7,1.00,0.82
+Best Actor,32,1959,Charlton Heston,American,US,4-Oct-1923,European,Protestant,Straight,Ben-hur,Epic religious drama,film,8.1,0.87,0.89
+Best Director,33,1960,Billy Wilder,American,Austria,22-Jun-1906,European,Jewish,Straight,The Apartment,Romantic comedy,film,8.3,0.94,0.94
+Best Actress,33,1960,Elizabeth Taylor,British-American,England,27-Feb-1932,European,Jewish,Straight,Butterfield 8,Drama,film,6.4,0.47,0.57
+Best Actor,33,1960,Burt Lancaster,American,US,2-Nov-1913,European,Atheist,Straight,Elmer Gantry,Drama,film,7.8,0.97,0.86
+Best Director,34,1961,Jerome Robbins,American,US,11-Oct-1918,European,Jewish,Bisexual,West Side Story,Romantic tragedy,musical,7.6,0.94,0.84
+Best Director,34,1961,Robert Wise,American,US,10-Sep-1914,European,Na,Straight,West Side Story,Romantic tragedy,musical,7.6,0.94,0.84
+Best Actress,34,1961,Sophia Loren,Italian-Fencch,Italy,20-Sep-1934,European,Roman Catholic,Straight,Two Women,Drama,film,7.9,0.88,0.91
+Best Actor,34,1961,Maximilian Schell,Swiss,Austria,8-Dec-1930,European,Roman Catholic,Straight,Judgement at Nuremberg,Courtroom drama,film,8.2,0.90,0.93
+Best Director,35,1962,David Lean,English,England,25-Mar-1908,European,Quakers,Straight,Lawrence of Arabia,Epic historical,film,8.3,0.98,0.93
+Best Actress,35,1962,Anne Bancroft,American,US,17-Sep-1931,European,Roman Catholic,Straight,The Miracle Worker,Biographic,film,8.1,1.00,0.88
+Best Actor,35,1962,Gregory Peck,American,US,5-Apr-1916,European,Roman Catholic,Straight,To Kill a Mockingbird,Drama,film,8.3,0.91,0.92
+Best Director,36,1963,Tony Richardson,English,England,5-Jun-1928,European,Na,Bisexual,Tom Jones,Adventure comedy,film,6.6,0.84,0.58
+Best Actress,36,1963,Patricia Neal,American,US,20-Jan-1926,European,Roman Catholic,Straight,Hud,Western,film,7.9,0.85,0.89
+Best Actor,36,1963,Sidney Poitier,Bahamas-American,Bahamas,20-Feb-1927,Afro-American,Agnostic,Straight,Lilies of the Field,Drama,film,7.6,0.90,0.86
+Best Director,37,1964,George Cukor,American,US,7-Jul-1899,European,Na,Gay,My Fair Lady,Drama,musical,7.9,0.96,0.90
+Best Actress,37,1964,Julie Andrews,English,England,1-Oct-1935,European,Na,Straight,Mary Poppins,fantaisy,musical,7.8,1.00,0.86
+Best Actor,37,1964,Rex Harrison,English,England,5-Mar-1908,European,Na,Straight,My Fair Lady,Drama,musical,7.9,0.96,0.90
+Best Director,38,1965,Robert Wise,American,US,10-Sep-1914,European,Na,Straight,The Sound of Music,Drama,musical,8.0,0.85,0.91
+Best Actress,38,1965,Julie Christie,British,India,14-Apr-1940,European,Protestant,Straight,Darling,Drama,film,7.2,0.70,0.71
+Best Actor,38,1965,Lee Marvin,American,US,19-Feb-1924,European,Na,Straight,Cat Ballou,Comedy,musical,6.9,1.00,0.74
+Best Director,39,1966,Fred Zinnemann,American,Austria,29-Apr-1907,European,Jewish,Straight,A Man for All Seasons,Biographical drama,film,7.8,0.81,0.87
+Best Actress,39,1966,Elizabeth Taylor,British-American,England,27-Feb-1932,European,Jewish,Straight,Who's Afraid of Virginia Woolf?,black comedy,film,8.0,0.95,0.91
+Best Actor,39,1966,Paul Scofield,English,England,21-Jan-1922,European,Na,Straight,A Man For All Seasons,Biographical drama,film,7.8,0.81,0.87
+Best Director,40,1967,Mike Nichols,American,Germany,6-Nov-1931,European,Jewish,Bisexual,The Graduate,Romantic comedy,film,8.0,0.89,0.90
+Best Actress,40,1967,Katharine Hepburn,American,US,12-May-1907,European,Atheist,Bisexual,Guess Who's Coming to Dinner,Comedy ,film,7.8,0.70,0.85
+Best Actor,40,1967,Rod Steiger,American,US,14-Apr-1925,European,Protestant,Straight,In the Heat of the Night,mystery drama,film,8.0,0.96,0.93
+Best Director,41,1968,Carol Reed,English,England,30-Dec-1906,European,Na,Straight,Oliver!,Drama,musical,7.5,0.81,0.81
+Best Actress,41,1968,Barbra Streisand,American,US,24-Apr-1942,European,Jewish,Straight,Funny Girl,Biographic,musical,7.6,0.93,0.85
+Best Actress,41,1968,Katharine Hepburn,American,US,12-May-1907,European,Atheist,Bisexual,The Lion in Winter,Historical drama,film,8.1,0.92,0.90
+Best Actor,41,1968,Cliff Robertson,American,US,9-Sep-1923,European,Protestant,Straight,Charly,Drama,film,7.1,0.71,0.61
+Best Director,42,1969,John Schlesinger,English,England,16-Feb-1926,European,Jewish,Gay,Midnight Cowboy,Drama,film,7.9,0.90,0.88
+Best Actress,42,1969,Maggie Smith,English,England,28-Dec-1934,European,Na,Straight,The Prime of Miss Jean Brodie,Drama,film,7.6,0.88,0.84
+Best Actor,42,1969,John Wayne,American,US,26-May-1907,European,Protestant,Straight,True Grit,Western,film,7.5,0.88,0.83
+Best Director,43,1970,Franklin J. Schaffner,American,Japan,30-May-1920,European,Na,Straight,Patton,Epic-biographical war drama,film,8.0,0.95,0.93
+Best Actress,43,1970,Glenda Jackson,British,England,9-May-1936,European,Na,Straight,Women in Love,Romantic drama,film,7.5,0.88,0.76
+Best Actor,43,1970,George C. Scott,American,US,18-Oct-1927,European,Na,Straight,Patton,Epic-biographical war drama,film,8.0,0.95,0.93
+Best Director,44,1971,William Friedkin,American,US,29-Aug-1935,European,Agnostic,Straight,The French Connection,Crime Thriller drama,film,7.8,0.98,0.87
+Best Actress,44,1971,Jane Fonda,American,US,21-Dec-1937,European,Roman Catholic,Straight,Klute,Noir,film,7.2,0.93,0.80
+Best Actor,44,1971,Gene Hackman,American,US,30-Jan-1930,European,Na,Straight,The French Connection,Crime Thriller drama,film,7.8,0.98,0.87
+Best Director,45,1972,Bob Fosse,American,US,23-Jun-1927,European,Na,Straight,Cabaret,Drama,film,7.8,0.95,0.87
+Best Actress,45,1972,Liza Minnelli,American,US,12-Mar-1946,European,Protestant,Na,Cabaret,Drama,musical,7.8,0.95,0.87
+Best Actor,45,1972,Marlon Brando,American,US,3-Apr-1924,European,Deist,Bisexual,The Godfather,Crime drama,film,9.0,0.97,0.97
+Best Director,46,1973,George Roy Hill,American,US,20-Dec-1921,European,Roman Catholic,Straight,The Sting,Caper,film,8.3,0.00,0.28
+Best Actress,46,1973,Glenda Jackson,British,England,9-May-1936,European,Na,Straight,A Touch of Class,Romantic comedy,film,6.5,0.91,0.65
+Best Actor,46,1973,Jack Lemmon,American,US,8-Feb-1925,European,Roman Catholic,Straight,Save the Tiger,Drama,film,6.9,0.83,0.74
+Best Director,47,1974,Francis Ford Coppola,American,US,7-Apr-1939,European,Na,Straight,The Godfather Part II,Crime drama,film,9.0,0.97,0.97
+Best Actress,47,1974,Ellen Burstyn,American,US,7-Dec-1932,European,Sufism,Straight,Alice Doesn't Live Here Anymore,Romantic comedy,film,7.4,0.88,0.82
+Best Actor,47,1974,Art Carney,American,US,4-Nov-1918,European,Roman Catholic,Straight,Harry and Tonto,road movie,film,7.4,0.88,0.82
+Best Director,48,1975,Milos Forman,Czech,Czechoslovakia,18-Feb1932,European,Na,Straight,One Flew over the Cuckoo's Nest,Comedy drama,film,8.7,0.94,0.96
+Best Actress,48,1975,Louise Fletcher,American,US,22-Jul-1934,European,Protestant,Straight,One Flew Over the Cuckoo's Nest,Comedy drama,film,8.7,0.94,0.96
+Best Actor,48,1975,Jack Nicholson,American,US,22-Apr-1937,European,Atheist,Straight,One Flew Over the Cuckoo's Nest,Comedy drama,film,8.7,0.94,0.96
+Best Director,49,1976,John G. Avildsen,American,US,21-Dec-1935,European,Na,Straight,Rocky,Drama,film,8.1,0.93,0.69
+Best Actress,49,1976,Faye Dunaway,American,US,14-Jan-1941,European,Roman Catholic,Straight,Network,Satirical,film,8.1,0.92,0.93
+Best Actor,49,1976,Peter Finch,English,England,28-Sep-1916,European,Budhist,Straight,Network,Satirical,film,8.1,0.92,0.93
+Best Director,50,1977,Woody Allen,American,US,1-Dec1935,European,Jewish,Straight,Annie Hall,Romantic comedy,film,8.0,0.97,0.92
+Best Actress,50,1977,Diane Keaton,American,US,5-Jan-1946,European,Atheist,Straight,Annie Hall,Romantic comedy,film,8.0,0.97,0.92
+Best Actor,50,1977,Richard Dreyfuss,American,US,29-Oct-1947,European,Agnostic,Straight,The Goodbye Girl,Romantic Comedy,film,7.4,0.88,0.84
+Best Director,51,1978,Michael Cimino,American,US,3-Feb-1939,European,Na,Straight,The Deer Hunter,Epic war drama,film,8.1,0.94,0.92
+Best Actress,51,1978,Jane Fonda,American,US,21-Dec-1937,European,Roman Catholic,Straight,Coming Home,Drama,film,7.3,0.81,0.82
+Best Actor,51,1978,Jon Voight,American,US,29-Dec-1938,European,Roman Catholic,Straight,Coming Home,Drama,film,7.3,0.81,0.82
+Best Director,52,1979,Robert Benton,American,US,29-Sep-1932,European,Na,Straight,Kramer vs. Kramer,family legal drama,film,7.8,0.91,0.39
+Best Actress,52,1979,Sally Field,American,US,6-Nov-1946,European,Na,Straight,Norma Rae,Drama,film,7.4,0.88,0.79
+Best Actor,52,1979,Dustin Hoffman,American,US,8-Aug-1937,European,Jewish,Straight,Kramer vs. Kramer,family legal drama,film,7.8,0.91,0.39
+Best Director,53,1980,Robert Redford,American,US,18-Au-1936,European,Na,Straight,Ordinary People,Drama,film,7.8,0.90,0.88
+Best Actress,53,1980,Sissy Spacek,American,US,25-Dec-1949,European,Na,Straight,Coal Miner's Daughter,Biographic,musical,7.5,0.88,0.86
+Best Actor,53,1980,Robert De Niro,American,US,17-Aug-1943,European,Na,Straight,Raging Bull,biographical drama,film,8.2,0.95,0.93
+Best Director,54,1981,Warren Beatty,American,US,30-Mar-1937,European,Baptist,Straight,Reds,Epic historical,film,7.4,0.92,0.82
+Best Actress,54,1981,Katharine Hepburn,American,US,12-May-1907,European,Atheist,Bisexual,On Golden Pond,Drama,film,7.7,0.92,0.87
+Best Actor,54,1981,Henry Fonda,American,US,16-May-1905,European,Agnostic,Straight,On Golden Pond,Drama,film,7.7,0.92,0.87
+Best Director,55,1982,Richard Attenborough,English,England,29-Aug-1923,European,Na,Straight,Gandhi,epic historical drama,film,8.1,0.85,0.92
+Best Actress,55,1982,Meryl Streep,American,US,22-Jun-1949,European,Na,Straight,Sophie's Choice,Drama,film,7.6,0.77,0.85
+Best Actor,55,1982,Ben Kingsley,English,England,31-Dec-1943,Multiracial,Na,Straight,Gandhi,epic historical drama,film,8.1,0.85,0.92
+Best Director,56,1983,James L. Brooks,American,US,9-May-1940,European,Na,Straight,Terms of Endearment,Comedy drama,film,7.4,0.88,0.83
+Best Actress,56,1983,Shirley MacLaine,American,US,24-Apr-1934,European,Metaphysic,Straight,Terms of Endearment,Comedy drama,film,7.4,0.88,0.83
+Best Actor,56,1983,Robert Duvall,American,US,5-Jan-1931,European,Na,Straight,Tender Mercies,Drama,film,7.4,0.86,0.82
+Best Director,57,1984,Milos Forman,Czech,Czechoslovakia,18-Feb-1932,European,Na,Straight,Amadeus,Period drama,film,8.3,0.94,0.95
+Best Actress,57,1984,Sally Field,American,US,6-Nov-1946,European,Na,Straight,Places in the Heart,Drama,film,7.3,0.96,0.83
+Best Actor,57,1984,F. Murray Abraham,American,US,24-Oct-1939,Middle Eastern,Protestant,Straight,Amadeus,Period drama,film,8.3,0.94,0.95
+Best Director,58,1985,Sydney Pollack,American,US,1-Jul-1934,European,Jewish,Straight,Out of Africa,Romantic drama,film,7.2,0.60,0.83,5
+Best Actress,58,1985,Geraldine Page,American,US,22-Nov-1924,European,Protestant,Straight,The Trip to Bountiful,Drama,film,7.6,1.00,0.85
+Best Actor,58,1985,William Hurt,American,US,20-Mar-1950,European,Protestant,Straight,Kiss of the Spider Woman,Drama,film,7.4,0.85,0.81
+Best Director,59,1986,Oliver Stone,American,US,15-Sep-1946,European,Atheist/buddhist,Straight,Platoon,Anti-war,film,8.1,0.88,0.93
+Best Actress,59,1986,Marlee Matlin,American,US,24-Aug-1965,European,Jewish,Straight,Children of a Lesser God,Romantic drama,film,7.2,0.81,0.78
+Best Actor,59,1986,Paul Newman,American,US,26-Jan-1925,European,Jewish,Straight,The Color of Money,Drama,film,7.0,0.89,0.73
+Best Director,60,1987,Bernardo Bertolucci,Italian,Italy,16-Mar-1941,European,Atheist,Straight,The Last Emperor,Epic-biographical,film,7.8,0.92,0.88
+Best Actress,60,1987,Cher,American,US,20-May-1946,European,Na,Na,Moonstruck,Romantic comedy,film,7.1,0.93,0.80
+Best Actor,60,1987,Michael Douglas,American,US,25-Sep-1944,European,Jewish,Straight,Wall Street,Drama,film,7.4,0.78,0.81
+Best Director,61,1988,Barry Levinson,American,US,6-Apr-1942,European,Jewish,Straight,Rain Man,Comedy /road movie,film,8.0,0.89,0.90
+Best Actress,61,1988,Jodie Foster,American,US,19-Nov-1962,European,Atheist,Gay,The Accused,legal drama,film,7.1,0.95,0.79
+Best Actor,61,1988,Dustin Hoffman,American,US,8-Aug-1937,European,Jewish,Straight,Rainman,Comedy /road movie,film,8.0,0.89,0.90
+Best Director,62,1989,Oliver Stone,American,US,15-Sep-1946,European,Atheist/buddhist,Straight,Born on the Fourth of July,Biographical war,film,7.2,0.88,0.76
+Best Actress,62,1989,Jessica Tandy,English-American,England,7-Jun-1909,European,Na,Straight,Driving Miss Daisy,Comedy drama,film,7.4,0.82,0.81
+Best Actor,62,1989,Daniel Day-Lewis,British-Irish,England,29-Apr-1957,European,Agnostic,Straight,My Left Foot,Biographical comedy,film,7.9,0.97,0.92
+Best Director,63,1990,Kevin Costner,American,US,18-Jan-1955,European,Baptist,Straight,Dances with Wolves,Western,film,8.0,0.82,0.87
+Best Actress,63,1990,Kathy Bates,American,US,28-Jun-1948,European,Na,Straight,Misery,Psychological horror thriller,film,7.8,0.89,0.89
+Best Actor,63,1990,Jeremy Irons,English,England,19-Sep-1948,European,Roman Catholic,Straight,Reversal of Fortune,Biographical drama,film,7.3,0.94,0.77
+Best Director,64,1991,Jonathan Demme,American,US,22-Feb-1944,European,Na,Straight,The Silence of the Lambs,Horror-thriller drama,film,8.6,0.96,0.95
+Best Actress,64,1991,Jodie Foster,American,US,19-Nov-1962,European,Atheist,Gay,The Silence of the Lambs,Horror-thriller drama,film,8.6,0.96,0.95
+Best Actor,64,1991,Anthony Hopkins,Welsh-American,Wales,31-Dec-1937,European,Agnostic,Straight,Silence of the Lambs,Horror-thriller drama,film,8.6,0.96,0.95
+Best Director,65,1992,Clint Eastwood,American,US,31-May-1930,European,Buddhist,Straight,Unforgiven,Western,film,8.2,0.96,0.93
+Best Actress,65,1992,Emma Thompson,British,England,15-Apr-1959,European,Atheist,Straight,Howards End,Romantic drama,film,7.5,0.94,0.82
+Best Actor,65,1992,Al Pacino,American,US,25-Apr-1940,European,Roman Catholic,Straight,Scent of a Woman,Drama,film,8.0,0.88,0.92
+Best Director,66,1993,Steven Spielberg,American,US,18-Dec-1946,European,Jewish,Straight,Schindler's List,Epic historical,film,8.9,0.97,0.97
+Best Actress,66,1993,Holly Hunter,American,US,20-Mar-1958,European,Agnostic atheistg,Straight,The Piano,Drama,film,7.6,0.92,0.86
+Best Actor,66,1993,Tom Hanks,American,US,9-Jul-1956,European,Greek Orthodox,Straight,Philadelphia,Drama,film,7.7,0.79,0.89
+Best Director,67,1994,Robert Zemeckis,American,US,14-May-1952,European,Roman Catholic,Straight,Forrest Gump,Comedy,film,8.8,0.73,0.95
+Best Actress,67,1994,Jessica Lange,American,US,20-Apr-1949,European,Budhist,Straight,Blue Sky,Drama,film,6.4,0.78,0.57
+Best Actor,67,1994,Tom Hanks,American,US,9-Jul-1956,European,Greek Orthodox,Straight,Forrest Gump,Comedy,film,8.8,0.73,0.95
+Best Director,68,1995,Mel Gibson,American,US,3-Jan-1956,European,Roman Catholic,Straight,Braveheart,Epic war drama,film,8.4,0.76,0.85
+Best Actress,68,1995,Susan Sarandon,American,US,4-Oct-1946,European,Roman Catholic,Straight,Dead Man Walking,Crime drama,film,7.5,0.95,0.85
+Best Actor,68,1995,Nicolas Cage,American,US,7-Jan-1964,European,Roman Catholic,Straight,Leaving Las Vegas,Romantic tragedy,film,7.5,0.90,0.85
+Best Director,69,1996,Anthony Minghella,British,England,6-Jan-1954,European,Na,Straight,The English Patient,Romantic war drama,film,7.4,0.84,0.83
+Best Actress,69,1996,Frances McDormand,American,US,23-Jun-1957,European,Protestant,Straight,Fargo,black comedy,,8.1,0.93,0.93
+Best Actor,69,1996,Geoffrey Rush,Australian,Australia,6-Jul-1951,European,Na,Straight,Shine,Biographical drama,film,7.7,0.91,0.90
+Best Director,70,1997,James Cameron,Canadian,Canada,16-Aug-1954,European,Atheist,Straight,Titanic,Romance,film,7.8,Na,0.71
+Best Actress,70,1997,Helen Hunt,American,US,15-Jun-1963,European,Na,Straight,As Good As It Gets,Romantic Comedy,film,7.7,0.85,0.86
+Best Actor,70,1996,Jack Nicholson,American,US,22-Apr-1937,European,Atheist,Straight,As Good as It Gets,Romantic Comedy,film,7.7,0.85,0.86
+Best Director,71,1998,Steven Spielberg,American,US,18-Dec-1946,European,Jewish,Straight,Saving Private Ryan,Epic war drama,film,8.6,0.93,0.95
+Best Actress,71,1998,Gwyneth Paltrow,American,US,27-Sep-1972,European,Jewish,Straight,Shakespeare in Love,Romantic Comedy,film,7.1,0.92,0.80
+Best Actor,71,1998,Roberto Benigni,Italian,Italy,27-Oct-1952,European,Na,Straight,Life is Beautiful,Comedy,film,8.6,0.80,0.96
+Best Director,72,1999,Sam Mendes,English,England,1-Aug-1965,European,Na,Straight,American Beauty,Drama,film,8.4,0.88,0.93
+Best Actress,72,1999,Hilary Swank,American,US,30-Jul-1974,European,Na,Straight,Boys Don't Cry,Biographic,film,7.6,0.88,0.87
+Best Actor,72,1999,Kevin Spacey,American,US,26-Jul-1959,European,Na,Matter of Dispute,American Beauty,Drama,film,8.4,0.88,0.93
+Best Director,73,2000,Steven Soderbergh,American,US,14-Jan-1963,European,Atheist,Straight,Traffic,Crime drama,film,7.6,0.92,0.85
+Best Actress,73,2000,Julia Roberts,American,US,28-Oct-1967,European,Hindu,Straight,Erin Brockovich,Biographic,film,7.3,0.84,0.81
+Best Actor,73,2000,Russell Crowe,New-Zelander,New Zealand,7-Apr-1964,European,Protestant,Straight,Gladiator,epic historical drama,film,8.5,0.76,0.87
+Best Director,74,2001,Ron Howard,American,US,1-Mar-1954,European,Na,Straight,A Beautiful Mind,Biographical drama,film,8.2,0.75,0.93
+Best Actress,74,2001,Halle Berry,American,US,14-Aug-1966,Multiracial,Na,Straight,Monster's Ball,Romantic drama,film,7.1,0.85,0.67
+Best Actor,74,2001,Denzel Washington,American,US,28-Dec-1954,Afro-American,Protestant,Straight,Training Day,Crime Thriller,film,7.7,0.72,0.89
+Best Director,75,2002,Roman Polanski,French-Polish,France,18-Aug-1933,European,Atheist,Straight,The Pianist,Biographical drama,film,8.5,0.95,0.95
+Best Actress,75,2002,Nicole Kidman,Australian-American,US,20-Jun-1967,European,Roman Catholic,Straight,The Hours,Psychological drama,film,7.6,0.80,0.84
+Best Actor,75,2002,Adrien Brody,American,US,14-Apr-1973,European,Jewish,Straight,The Pianist,Biographical drama,film,8.5,0.95,0.95
+Best Director,76,2003,Peter Jackson,New-Zelander,New Zealand,31-Oct-1961,European,Na,Straight,The Lord of the Rings: Return of the King,Epic fantaisy adventure,film,8.9,0.93,0.86
+Best Actress,76,2003,Charlize Theron,South African -American,South Africa,7-Aug-1975,European,Na,Straight,Monster,Biographical drama,film,7.3,0.81,0.81
+Best Actor,76,2002,Sean Penn,American,US,17-Aug-1960,European,Na,Straight,Mystic River,mystery drama,film,8.0,0.88,0.89
+Best Director,77,2004,Clint Eastwood,American,US,31-May-1930,European,Buddhist,Straight,Million Dollar Baby,Drama,film,8.1,0.91,0.90
+Best Actress,77,2004,Hilary Swank,American,US,30-Jul-1974,European,Na,Straight,Million Dollar Baby,Drama,film,8.1,0.91,0.90
+Best Actor,77,2004,Jamie Foxx,American,US,13-Dec-1967,Afro-American,Protestant,Straight,Ray,Biographical drama,musical,7.7,0.80,0.87
+Best Director,78,2005,Ang Lee,Taiwanese,Taiwan,23-Oct-1954,Asian,Buddhist,Straight,Brokeback Mountain,Romantic drama,film,7.7,0.87,0.82
+Best Actress,78,2005,Reese Witherspoon,American,US,22-Mar-1976,European,Protestant,Straight,Walk the Line,Biographical drama,film,7.9,0.83,0.90
+Best Actor,78,2005,Philip Seymour Hoffman,American,US,23-Jul-1967,European,Roman Catholic,Straight,Capote,Biographical drama,film,7.4,0.90,0.81
+Best Director,79,2006,Martin Scorsese,American,US,17-Nov-1942,European,Roman Catholic,Straight,The Departed,Crime drama,film,8.5,0.91,0.94
+Best Actress,79,2006,Helen Mirren,English,England,26-Jul-1945,European,Atheist,Straight,The Queen,Historical drama,film,7.3,0.97,0.76
+Best Actor,79,2006,Forest Whitaker,American,US,15-Jul-1961,Afro-American,Na,Straight,The Last King of Scotland,historical drama,film,7.7,0.87,0.89
+Best Director,80,2007,Coen Brothers,American,US,21-Sep-1957,European,Jewish,Straight,No Country for Old Men,Crime Thriller drama,film,8.1,0.93,0.86
+Best Actress,80,2007,Marion Cotillard,French,France,30-Sep-1975,European,Na,Straight,La Vie en Rose,Biographic,musical,7.6,0.74,0.84
+Best Actor,80,2007,Daniel Day-Lewis,British-Irish,England,29-Apr-1957,European,Agnostic,Straight,There Will Be Blood,Drama,film,8.2,0.91,0.86
+Best Director,81,2008,Danny Boyle,English,England,20-Oct-1956,European,Atheist,Straight,Slumdog Millionaire,Drama,film,8.0,0.91,0.90
+Best Actress,81,2008,Kate Winslet,English,England,01/07/16,European,Na,Straight,The Reader,Romantic drama,film,7.6,0.63,0.79
+Best Actor,81,2008,Sean Penn,American,US,17-Aug-1960,European,Na,Straight,Milk,Biographical drama,film,7.6,0.93,0.89
+Best Director,82,2009,Kathryn Bigelow,American,US,27-Nov-1951,European,Na,Straight,The Hurt Locker,War Thriller,film,7.6,0.97,0.84
+Best Actress,82,2009,Sandra Bullock,American,US,26-Jul-1964,European,Na,Straight,The Blind Side,Biographical drama,film,7.7,0.66,0.85
+Best Actor,82,2009,Jeff Bridges,American,US,4-Dec-1949,European,Budhist,Straight,Crazy Heart,Drama,film,7.3,0.90,0.76
+Best Director,83,2010,Tom Hooper,British-Australian,England,05-Oct-1972,European,Na,Na,The King's Speech,Historical drama,film,8.0,0.95,0.92
+Best Actress,83,2010,Natalie Portman,Israeli – American,Israel,9-Jun-1981,European,Jewish,Straight,Black Swan,Psychological horror,film,8.0,0.85,0.84
+Best Actor,83,2010,Colin Firth,English-Italian,England,10-Sep-1960,European,Na,Straight,The King's Speech,historical drama,film,8.0,0.95,0.92
+Best Director,84,2011,Michel Hazanavicius,French,France,29-Mar-1967,European,Jewish,Straight,The Artist,Comedy drama,film,7.9,0.95,0.87
+Best Actress,84,2011,Meryl Streep,American,US,22-Jun-1949,European,Na,Straight,The Iron Lady,Biographical drama,film,6.4,0.51,0.51
+Best Actor,84,2011,Jean Dujardin,French,France,19-Jun-1972,European,Na,Straight,The Artist,Comedy drama,film,7.9,0.95,0.87
+Best Director,85,2012,Ang Lee,Taiwanese,Taiwan,23-Oct-1954,Asian,Buddhist,Straight,Life of Pi,Drama,film,7.9,0.87,0.84
+Best Actress,85,2012,Jennifer Lawrence,American,US,15-Aug-1990,European,Na,Na,Silver Linings Playbook,Romantic Comedy,film,7.7,0.92,0.86
+Best Actor,85,2012,Daniel Day-Lewis,British-Irish,England,29-Apr-1957,European,Agnostic,Straight,Lincoln,historical drama,film,7.4,0.89,0.80
+Best Director,86,2013,Alfonso Cuaron,Mexican,Mexico,28-Nov-1961,Hispano-American,Na,Straight,Gravity,Thriller,film,7.7,0.96,0.80
+Best Actress,86,2013,Cate Blanchett,Australian,Australia,14-May-1969,European,Na,Straight,Blue Jasmine,black comedy,film,7.3,0.91,0.77
+Best Actor,86,2013,Matthew McConaughey,American,US,4-Nov-1969,European,Christian,Straight,Dallas Buyers Club,biographical drama,film,8.0,0.93,0.91
+Best Director,87,2014,Alejandro G. Inarritu,Mexican,Mexico,15-Aug-1963,Hispano-American,Na,Straight,Birdman,Black comedy,film,7.7,0.91,0.77
+Best Actress,87,2014,Julianne Moore,British-American,US,03/12/60,European,Atheist,Straight,Still Alice,Drama,film,7.5,0.86,0.85
+Best Actor,87,2014,Eddie Redmayne,English,England,6-Jan-1972,European,Na,Na,The Theory of Everything,biographical romantic drama,film,7.7,0.78,0.84
+Best Director,88,2015,Alejandro G. Inarritu,Mexican,Mexico,15-Aug-1963,Hispano-American,Na,Straight,The Revenant,Western,film,8.0,0.78,0.84
+Best Actress,88,2015,Brie Larson,American,US,1-Oct-1989,European,Na,Na,Room,Drama,film,8.2,0.94,0.93
+Best Actor,88,2015,Leonardo DiCaprio,American,US,11-Nov-1974,European,Agnostic,Na,The Revenant,Western,film,8.0,0.78,0.84
+Best Director,89,2016,Damian Chazelle,French-American,US,19-Jan-1985,European,Roman Catholic,Straight,La La Land,Romantic,musical,8.0,0.91,0.81
+Best Actress,89,2016,Emma Stone,American,US,06/11/88,European,Na,Na,La La Land,Romantic,musical,8.0,0.91,0.81
+Best Actor,89,2016,Casey Affleck,American,US,12-Aug-1975,European,Na,Na,Manchester by the Sea,Drama,film,7.8,0.96,0.77
+Best Director,90,2017,Guillermo del Toro,Mexican,Mexico,9-Oct-1964,Hispano-American,Atheist,Straight,The Shape of Water,Romantic fantaisy,film,7.4,0.92,0.73
+Best Actress,90,2017,Frances McDormand,American,US,23/06/57,European,Protestant,Straight,Three Billboards Outside Ebbing, Missouri,Dark comedy crime,film,8.2,0.91,0.86
+Best Actor,90,2017,Gary Oldman,English,England,21-Mar-1978,European,Na,Na,Darkest Hour,war drama,film,7.4,0.84,0.82
