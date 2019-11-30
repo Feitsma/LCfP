@@ -19,8 +19,14 @@ class Point:
         my = (self.y + target.y)/2
         return Point(mx, my)
 
+    def reflect_x(self):
+        """Reflects a point around x-axis"""
+        x = self.x
+        y = self.y * -1
+        return Point(x, y)
+
 p = Point(3,4)
 q = Point(5,4)
-r = p.halfway(q)
+r = p.reflect_x()
 print(r)
 
