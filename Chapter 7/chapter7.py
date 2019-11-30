@@ -25,8 +25,19 @@ class Point:
         y = self.y * -1
         return Point(x, y)
 
-p = Point(3,4)
-q = Point(5,4)
-r = p.reflect_x()
-print(r)
+    def slope_from_origin(self):
+        origin = Point(0,0)
+        dx = self.x - origin.x
+        dy = self.y - origin.y
+        return (dy/dx)
 
+    def get_line_to(self, target):
+        """determine a and b in y=ax+b"""
+        #a is slope of line
+        #b is distance in x value
+        dx = target.x - self.x
+        dy = target.y - self.y
+        return Point(dy/dx, dy)
+
+
+print(Point(4,11).get_line_to(Point(6,15)))
