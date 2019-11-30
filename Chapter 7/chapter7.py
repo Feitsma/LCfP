@@ -13,10 +13,14 @@ class Point:
     def __str__(self):
         return "({0}, {1})".format(self.x, self.y)
 
+    def halfway(self, target):
+        """Return the halfway point between myself and target"""
+        mx = (self.x + target.x)/2
+        my = (self.y + target.y)/2
+        return Point(mx, my)
 
 p = Point(3,4)
 q = Point(5,4)
+r = p.halfway(q)
+print(r)
 
-print(p.x, p.y, q.x, q.y)
-p = str(q)
-print(p)
