@@ -10,8 +10,13 @@ class Point:
         self.x = x
         self.y = y
 
+    def __str__(self):
+        return "({0}, {1})".format(self.x, self.y)
+
+
 p = Point(3,4)
 q = Point(5,4)
 
-
 print(p.x, p.y, q.x, q.y)
+p = str(q)
+print(p)
