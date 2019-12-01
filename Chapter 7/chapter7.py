@@ -48,28 +48,45 @@ class SMS_store:
     """This class handles storage of SMS messages in tuples of (has_been_viewed, from_number, time_arrived, text_of_sms)"""
 
     def __init__(self):
+        """Initiates the form of the inbox. In this case a list with tuples holding info on: (has_been_viewed, from_number, time_arrived, text_of_sms)"""
         self.inbox = []
 
-    def add_new_arrival(self, from_number, text_of_sms):
+    def add_new_arrival(self, from_number , text_of_sms):
+        """Adds new arrival based on given information on number, text of sms and adds automatically if it is read and time"""
         ti = time.gmtime()
         local_time = time.asctime(ti)
         self.inbox.append((False, from_number, local_time, text_of_sms))
 
     def message_count(self):
+        """Retuns nr. of messages in inbox"""
         return len(self.inbox)
 
     def get_unread_indexes(self):
-        i = 0
-        result = []
-        for i in self.inbox:
-            if self.inbox[i][0] == False:
-                result.append(i)
+        """This method returns a list with indices of unread messages"""
+        unread_messages_list = []
+        i=0
+        for messages in self.inbox:
+            if messages[0] == False:
+                unread_messages_list.append(i)
+                i = i+1
             else:
-                continue
-        return result
+                i = i+1
+        return unread_messages_list
 
+    def get_messages(self, message_index):
+        """Request an message"""
+        try: #check if index of requested message does exist
+            self.inbox[message_index]
+            if self.inbox[message_index][0] == False:
+                msg = list(self.inbox[message_index])
+                msg[0] = True
+                self.inbox[message_index] = tuple(msg)
+            return self.inbox[message_index][1], self.inbox[message_index][2], self.inbox[message_index][3]
+        except IndexError:
+            return None
 
 my_inbox = SMS_store()
-my_inbox.add_new_arrival('06', 'hey')
-my_inbox.add_new_arrival('06test', 'Hey, works this?')
-unread_messages = my_inbox.get_unread_indexes
+my_inbox.add_new_arrival('0623', 'hey')
+my_inbox.add_new_arrival('', 'Hey, works this?')
+print(my_inbox.get_unread_indexes())
+print(my_inbox.get_messages(1))
