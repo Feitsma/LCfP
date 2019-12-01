@@ -55,7 +55,7 @@ class SMS_store:
         """Adds new arrival based on given information on number, text of sms and adds automatically if it is read and time"""
         ti = time.gmtime()
         local_time = time.asctime(ti)
-        self.inbox.append((False, str(from_number), local_time, text_of_sms))
+        self.inbox.append((False, from_number, local_time, text_of_sms))
 
     def message_count(self):
         """Retuns nr. of messages in inbox"""
@@ -95,9 +95,9 @@ class SMS_store:
 
 
 #some test code
-my_inbox = SMS_store()
+my_inbox = SMS_store() #initiate my_inbox in SMS_store class
 my_inbox.add_new_arrival('1','hey')
 my_inbox.add_new_arrival('2', 'Hey, works this?')
-print(my_inbox.get_unread_indexes())
-print(my_inbox.get_messages(0))
-my_inbox.clear()
+print(my_inbox.get_unread_indexes()) #give list with indices of unread messages
+print(my_inbox.get_messages(0)) #request to print message at index 0
+my_inbox.clear() #empty inbox
