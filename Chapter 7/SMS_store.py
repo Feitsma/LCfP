@@ -1,4 +1,4 @@
-"Exercise 11.1.12 of How to Think Like a ComputerScientist: Learning with Python 3Documentation"
+"Exercise 11.1.12 of How to Think Like a ComputerScientist: Learning with Python 3Documentation1"
 
 import math
 import datetime
