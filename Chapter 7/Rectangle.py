@@ -7,7 +7,7 @@ class Rectangle:
     """A class to manufacture rectangle objects"""
 
     def __init__(self, posn, w, h):
-        """Initialize rectangle at posn, with width w, and height h"""
+        """Initialize rectangle at posn (upper-left corner of rectangle), with width w, and height h"""
         self.corner = posn
         self.width = w
         self.height = h
@@ -44,12 +44,22 @@ class Rectangle:
 
     def contains(self, location_point):
         """Give Point and determines whether it falls within the rectangle"""
-        point = Point(x,y)
-
+        location_point_x = location_point.x #x value can be called because user inserts a Point at:location_point
+        location_point_y = location_point.y
+        lower_bound_x = self.corner.x
+        higher_bound_x = self.corner.x + self.width
+        higher_bound_y = self.corner.y
+        lower_bound_y = self.corner.y - self.height
+        if location_point_x in range(lower_bound_x, higher_bound_x)\
+                and location_point_y in range(lower_bound_y, higher_bound_y):
+            return print("x and y values fall in rectangle!")
+        else:
+            return print("One of the values is outside of the rectangle!")
 
 
 box = Rectangle(Point(0,0), 100, 200)
 bomb = Rectangle(Point(100,80), 5, 10)
-r = Rectangle(Point(0,0), 10,5)
+r = Rectangle(Point(0,0), 10,5) #define a rectangle a, where Point(x,y) is upper-left corner
+
 print("box: ", box)
 print("bomb: ", bomb)
