@@ -1,4 +1,4 @@
-"Exercise 11.2.6"
+"Exercise 11.2.6 of How to Think Like a ComputerScientist: Learning with Python 3Documentation"
 
 from Point import Point
 import unittest
