@@ -84,4 +84,4 @@ t3 = MyTime(11,30,0)
 print(t3.between(t1,t2)) #test between method
 print(t1.after(t2))
 print(t1 > t2) #test if __gt__  works
-print(t1.increment_seconds(10))
+print(t1.increment_seconds(-100))
