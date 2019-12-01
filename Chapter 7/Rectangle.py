@@ -57,9 +57,9 @@ class Rectangle:
             return print("One of the values is outside of the rectangle!")
 
 
-box = Rectangle(Point(0,0), 100, 200)
+box = Rectangle(Point(0,0), 100, 200) #define a rectangle
 bomb = Rectangle(Point(100,80), 5, 10)
 r = Rectangle(Point(0,0), 10,5) #define a rectangle a, where Point(x,y) is upper-left corner
 
-print("box: ", box)
+print("box: ", box) #Printing values of a rectangle
 print("bomb: ", bomb)
