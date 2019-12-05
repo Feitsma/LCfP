@@ -1,4 +1,4 @@
-"Exercise 11.4.10 of How to Think Like a ComputerScientist: Learning with Python 3Documentation"
+"Paragraph 11.4 of How to Think Like a ComputerScientist: Learning with Python 3Documentation"
 class Card:
     suits = ["Clubs", "Diamonds", "Hearts", "Spades"]
     ranks = ["narf", "Ace", "2", "3", "4", "5", "6", "7","8", "9", "10", "Jack", "Queen", "King"]
