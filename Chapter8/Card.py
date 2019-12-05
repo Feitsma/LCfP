@@ -8,3 +8,34 @@ class Card:
 
     def __str__(self):
         return(self.ranks[self.rank] + " of " + self.suits[self.suit])
+
+    def cmp(self, other):
+        """Checks the suits"""
+        if self.suit > other.suit: return 1
+        if self.suit < other.suit: return -1
+        #if suits are the same -> check ranks
+        if self.rank > other.rank: return 1
+        if self.rank < other.rank: return -1
+        #tie if also ranks are same
+        return 0
+
+    #overloading relational operators
+    def __eq__(self, other):
+        return self.cmp(other) == 0
+
+    def __le__(self, other):
+        return self.cmp(other) <= 0
+
+    def __ge__(self, other):
+        return self.cmp(other) >= 0
+
+    def __gt__(self, other):
+        return self.cmp(other) > 0
+
+    def __lt__(self, other):
+        return self.cmp(other) < 0
+
+    def __ne__(self, other):
+        return self.cmp(other) != 0
+
+
